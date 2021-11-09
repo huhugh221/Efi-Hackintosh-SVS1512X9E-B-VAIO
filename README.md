@@ -8,3 +8,7 @@ Catalina and High Sierra are most stable for performance.
 Big Sur has a ton of input lag
 
 Monterey is not installable due to Ivy Bridge (Intel HD 4000) GPU drivers been dropped by Apple.
+
+Contact me @iDrinkCoffee on Telegram.
+
+Cheers!
