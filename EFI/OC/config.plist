@@ -1162,6 +1162,16 @@
 				<key>Comment</key>
 				<string>OpenLinuxBoot.efi</string>
 			</dict>
+			<dict>
+				<key>Enabled</key>
+				<true/>
+				<key>Path</key>
+				<string>AptioInputFix.efi</string>
+				<key>Arguments</key>
+				<string></string>
+				<key>Comment</key>
+				<string>AptioInputFix.efi</string>
+			</dict>
 		</array>
 		<key>Input</key>
 		<dict>
