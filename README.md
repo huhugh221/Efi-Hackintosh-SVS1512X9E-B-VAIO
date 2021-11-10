@@ -17,7 +17,18 @@ macOS | Catalina
 
 ## What works?
 
-- to be determined
+- Audio
+- Battery readout
+- Boot
+- Brightness Control
+- Ethernet
+- GPU acceleration
+- Keyboard + Trackpad
+- SD card reader
+- Sleep
+- USB
+- Webcam
+- Speaker
 
 ## What doesn't work?
 
