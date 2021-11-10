@@ -58,5 +58,6 @@ You should also put in your ethernet adapter's MAC address into the ROM section.
 * [dortania](https://dortania.github.io/OpenCore-Install-Guide/) (for their awesome guide)
 * [OpenIntelWireless](https://github.com/OpenIntelWireless) (for Intel WiFi and Bluetooth)
 * [iDrinkCoffee](https://github.com/huhugh221) (for creating the EFI)
-* me (for fixing alot of the unneeded and missing stuff)
+* [0xFireWolf](https://github.com/0xFireWolf) (for RealtekCardReader)
+* [TECHNIKVERBOT](https://github.com/TECHNIKVERBOT) (for fixing alot of the unneeded and missing stuff)
 
