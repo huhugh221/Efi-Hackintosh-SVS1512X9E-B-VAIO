@@ -43,11 +43,11 @@ macOS | Catalina
 Download this repo and place the EFI folder into your internal drive's EFI partition... That's it.
 
 
-## How to Install macOS
+## How to Install macOS Catalina
 
 There are two ways you can make a USB installer:
 
-1. Have a working install of macOS, download the Installer from the App Store, then make a bootable Installer with the `createinstallmedia` command
+1. Have a working install of macOS, download the Installer from the App Store, then make a bootable Installer with createinstallmedia by using this command in Terminal sudo /Applications/Install\ macOS\ Catalina.app/Contents/Resources/createinstallmedia --volume /Volumes/MyVolume
 
 2. If you are using Windows, use [macrecovery.py](https://dortania.github.io/OpenCore-Install-Guide/installer-guide/winblows-install.html) from the offical OpenCore release package.
 
