@@ -25,6 +25,8 @@ macOS | Catalina
 - GPU acceleration
 - Keyboard + Trackpad
 - SD card reader
+- WiFi
+- Bluetooth
 - Sleep
 - USB
 - Webcam
