@@ -1090,6 +1090,8 @@
 			<true/>
 			<key>DisconnectHda</key>
 			<false/>
+			<key>MaximumGain</key>
+			<integer>-15</integer>
 			<key>PlayChime</key>
 			<string>Enabled</string>
 			<key>ResetTrafficClass</key>
